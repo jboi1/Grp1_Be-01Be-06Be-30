@@ -3,9 +3,9 @@
 
 ## Project Proposal Template
 
-### Project Title or Name of the Application	:
-### Section			   	      : 9-Beryllium
-### Group Members			    : ALIMORONG, CHOY, YANG
+### Project Title or Name of the Application	: Probability Simulator
+### Section			   	      : IX-Beryllium
+### Group Members			    : ALIMORONG, Jared Isaiah T.; CHOY, Ethan Caleb M.; YANG, Ashton Grant D.
 ### Date (Proposal Date)  : Nov 5, 2026
 
 ### Project Description:
