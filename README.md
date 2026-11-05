@@ -4,8 +4,8 @@
 ## Project Proposal Template
 
 ### Project Title or Name of the Application	:
-### Section			   	      :
-### Group Members			    :
+### Section			   	      : 9-Beryllium
+### Group Members			    : ALIMORONG, CHOY, YANG
 ### Date (Proposal Date)  : Nov 5, 2026
 
 ### Project Description:
