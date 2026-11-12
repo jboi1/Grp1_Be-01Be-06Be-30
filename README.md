@@ -1,12 +1,9 @@
-# CS3SY26_ProjectProposal by AlMendoza
-
-
-## Project Proposal Template
+# CS3 Project Proposal (Beryllium Group 1)
 
 ### Project Title or Name of the Application	: Probability Simulator
 ### Section			   	      : IX-Beryllium
 ### Group Members			    : ALIMORONG, Jared Isaiah T.; CHOY, Ethan Caleb M.; YANG, Ashton Grant D.
-### Date (Proposal Date)  : Nov 5, 2026
+### Date (Proposal Date)  : Nov 12, 2026
 
 ### Project Description:
 
