@@ -1,9 +1,9 @@
 # CS3 Project Proposal (Beryllium Group 1)
 
-### Project Title or Name of the Application	: Probability Simulator
-### Section			   	      : IX-Beryllium
-### Group Members			    : ALIMORONG, Jared Isaiah T.; CHOY, Ethan Caleb M.; YANG, Ashton Grant D.
-### Date (Proposal Date)  : Nov 12, 2026
+### Project Title or Name of the Application	: 
+### Section			   	                        : IX-Beryllium
+### Group Members			                    : ALIMORONG, Jared Isaiah T.; CHOY, Ethan Caleb M.; YANG, Ashton Grant D.
+### Date (Proposal Date)                        : Nov 12, 2026
 
 ### Project Description:
 
@@ -15,15 +15,19 @@
 
 - The description is then followed by the class diagram, depicting clearly what was described.
 
-**Sample class Diagram from https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png:**
+This project is a web-based RPG centralized around practicing factoring skills, which will most likely be needed by students learning about factoring who need to polish their speed. In the game, the player will fight against monsters, who have randomly generated mathematical polynomial functions attached to their bodies, in waves by finding all zeros of the function found on each monster. If the player doesn't kill monsters quickly enough, the monsters may reach the player and deal damage to the player until they die and the game ends. As the game progresses, the monsters have more health and deal more damage to the player. However, the player also gets new weapons, which amplify their damage output such that the rarer it is, the bigger the damage the player deals per attack, every 5 waves, and items that may increase their maximum health, heal them, or increase their luck, every 2 waves. When the player reaches game over, like an arcade game, they will be asked to give a username, so they can be put on the leaderboard so the players can be ranked by how many waves they have completed.
 
-![Sample Diagram](https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png)
+**Class Diagram**
+
+![Diagram](https://files.catbox.moe/gtnupz.png)
 
 ### Goals:
 
 Describe the long term outcomes of your project followed by a couple of objectives to meet the goals stated in this paragraph
 
-- Objective 1:
+After play
+
+- Objective 1: 
 - Objective 2:
 - Objective n:
 
