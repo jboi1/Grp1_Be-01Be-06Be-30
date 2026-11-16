@@ -1,6 +1,6 @@
 # CS3 Project Proposal (Beryllium Group 1)
 
-### Project Title or Name of the Application	: 
+### Project Title or Name of the Application	: THE Math RPG
 ### Section			   	                        : IX-Beryllium
 ### Group Members			                    : ALIMORONG, Jared Isaiah T.; CHOY, Ethan Caleb M.; YANG, Ashton Grant D.
 ### Date (Proposal Date)                        : Nov 12, 2026
